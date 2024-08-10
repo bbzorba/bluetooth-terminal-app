@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073681734239",
+    "project_id": "yu-gi-oh--gx",
+    "storage_bucket": "yu-gi-oh--gx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073681734239:android:fc719f90729745854719ea",
+        "android_client_info": {
+          "package_name": "com.example.yugi_oh_gx_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpzmuS6UsweRbwhSQFHF4ldLGg0597A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
